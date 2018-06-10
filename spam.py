@@ -12,7 +12,7 @@ fromaddress = raw_input("From address: ")
 toaddress = raw_input("To address: ")
 
 # Gmail Login
-username = raw_input("Your username: ")
+username = raw_input("Your email: ")
 password = getpass.getpass("Password: ")
 
 # Write message
