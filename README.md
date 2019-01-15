@@ -4,3 +4,6 @@ Simple email spamming
 ```
 python spam.py
 ```
+
+## NOTE
+You must activate the SMTP Server before using this spam tool
